@@ -1,0 +1,9 @@
+          (Advance JavaScript)
+
+               Questions
+------------------------------------------------------------------------------------------------------------------------------------------------
+1.   Write a program to Show an alert
+  Ans:HTML <button> element anywhere within the body of your web page:
+      <button onclick="showAlert()">Show alert</button>
+------------------------------------------------------------------------------------------------------------------------------------------------
+2.   
